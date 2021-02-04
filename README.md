@@ -1,3 +1,3 @@
 # NLP
 
-Natural Language Processing: Programs Writtent for coursework.
+Natural Language Processing: programs written for coursework.
